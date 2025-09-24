@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![gonzalo2277](https://github-readme-stats.vercel.app/api?username=gonzalo2277)](https://github.com/anuraghazra/github-readme-stats)
+[![gonzalo2277](https://github-readme-stats.vercel.app/api?username=gonzalo2277)](https://github.com/anuraghazra/github-readme-stats@locale=es)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gonzalo2277=SrGobi)](https://github.com/SrGobi/github-readme-stats@locale=es)
